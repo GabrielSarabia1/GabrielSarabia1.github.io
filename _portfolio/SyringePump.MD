@@ -2,7 +2,7 @@
 title: "Syringe Pump"
 excerpt: "Designed and fabricated a 3D-printed syringe pump capable of precisely dispensing liquids at controlled flow rates. The design accommodated both 10 mL and 20 mL syringes while allowing for tool-free assembly and integrating all electrical components within the pump base."
 header:
-  image: /assets/img/gear background.jpg
+  image: /assets/img/Engineering_Services_Banner.jpg
   teaser: /assets/img/Screenshot (12).png
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
