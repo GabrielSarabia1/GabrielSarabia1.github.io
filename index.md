@@ -1,4 +1,5 @@
 ---
+title: "Welcome!"
 layout: splash
 header:
   overlay_color: "#000"
