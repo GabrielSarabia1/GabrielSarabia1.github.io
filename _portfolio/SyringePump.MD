@@ -32,6 +32,43 @@ gallery:
 # Parts/Code Needed
 [View Arduino Code](https://github.com/GabrielSarabia1/GabrielSarabia1.github.io/blob/main/assets/SyringePump.ino)
 
+# Supplied Items
+
+| Supplied Item |
+|---------------|
+| 250 mm lead screw, 2 mm pitch, 2 mm lead |
+| 250 mm lead screw, 2 mm pitch, 8 mm lead |
+| 1/4" × 8 mm flexible coupling |
+| 200 mm linear rod, 8 mm diameter |
+| LM8UU linear bearing |
+| 2040 aluminum extrusion, 1 ft |
+| NEMA 17 stepper motor |
+| MEAN WELL RQ‑65D power supply |
+| Arduino Uno |
+| A4988 stepper driver |
+| Small breadboard |
+| Panel‑mount latching push button |
+| Limit switch |
+| RGB common‑cathode LED |
+| Wires, fasteners, resistors, heat‑shrink |
+
+
+# 3D‑Printed Items
+
+| 3D‑Printed Item |
+|-----------------|
+| Motor mount |
+| Lead screw nut carriage |
+| Syringe holder / clamp |
+| Electronics enclosure |
+| Enclosure lid / removable panels |
+| Button/LED mounting panel |
+| Limit switch bracket |
+| Cable‑management clips |
+| Unique group branding badge |
+| LCD mount |
+| Button mount |
+
 # CAD Model
 <iframe src="https://a360.co/3UBwwNW" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
