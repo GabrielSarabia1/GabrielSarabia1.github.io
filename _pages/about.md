@@ -13,12 +13,11 @@ Gabriel is a Mechanical Engineering student at Vanderbilt University with an int
 ## Professional Experience
 Gabriel has experience supporting construction field operations and coordinating with project teams, subcontractors, and trade partners. As a Field Engineer Intern at Mortenson Construction, he gained hands-on experience with construction documentation, scheduling, coordination, and resolving field and design issues.
 
-## Mortenson Construction
-## Field Engineer Intern
-* Supported RFIs, submittals, shop drawings, and change orders
-* Assisted with construction scheduling, sequencing, and subcontractor coordination
-* Participated in pre-installation and coordination meetings
-* Utilized construction management software to track documentation, materials, and project updates
+* Mortenson Construction (Field Engineer Intern)
+  * Supported RFIs, submittals, shop drawings, and change orders
+  * Assisted with construction scheduling, sequencing, and subcontractor coordination
+  * Participated in pre-installation and coordination meetings
+  * Utilized construction management software to track documentation, materials, and project updates
 
 ## Technical Skills
 
