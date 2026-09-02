@@ -1,9 +1,9 @@
 ---
-title: "Cyber Scooter"
-excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
+title: "Syringe Pump"
+excerpt: "Designed and fabricated a 3D-printed syringe pump capable of precisely dispensing liquids at controlled flow rates. The design accommodated both 10 mL and 20 mL syringes while allowing for tool-free assembly and integrating all electrical components within the pump base."
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/gear background.jpg
+  teaser: /assets/img/Screenshot (12).png
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
