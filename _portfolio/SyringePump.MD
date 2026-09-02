@@ -18,16 +18,16 @@ gallery:
 
 # Features
 
-*Compatible with 10 mL and 20 mL syringes
-*3D-printed components designed for modular assembly
-*Stepper motor and lead screw provide precise linear plunger movement
-*1/16 microstepping for smoother and more consistent flow
-*Adjustable flow rate through Arduino programming
-*LCD display shows flow rate and pump status
-*Start/pause button for user control
-*Limit switch automatically stops the pump when fully dispensed
-*RGB LED status indicator for running, paused, and completed states
-*Electrical components integrated within the 3D-printed pump enclosure
+* Compatible with 10 mL and 20 mL syringes
+* 3D-printed components designed for modular assembly
+* Stepper motor and lead screw provide precise linear plunger movement
+* 1/16 microstepping for smoother and more consistent flow
+* Adjustable flow rate through Arduino programming
+* LCD display shows flow rate and pump status
+* Start/pause button for user control
+* Limit switch automatically stops the pump when fully dispensed
+* RGB LED status indicator for running, paused, and completed states
+* Electrical components integrated within the 3D-printed pump enclosure
 
 # CAD Model
 <iframe src="https://a360.co/3UBwwNW" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
