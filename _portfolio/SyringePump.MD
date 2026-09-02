@@ -64,8 +64,6 @@ gallery:
 | Enclosure lid / removable panels |
 | Button/LED mounting panel |
 | Limit switch bracket |
-| Cable‑management clips |
-| Unique group branding badge |
 | LCD mount |
 | Button mount |
 
