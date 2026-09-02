@@ -29,6 +29,9 @@ gallery:
 * RGB LED status indicator for running, paused, and completed states
 * Electrical components integrated within the 3D-printed pump enclosure
 
+# Parts/Code Needed
+[View Arduino Code](https://github.com/GabrielSarabia1/GabrielSarabia1.github.io/blob/main/assets/Syringe%20Pump/syringe_pump.ino)
+
 # CAD Model
 <iframe src="https://a360.co/3UBwwNW" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
