@@ -19,7 +19,7 @@ feature_row:
   - image_path: assets/img/league.jpg
     alt: "placeholder image 2"
     title: "League of Legends"
-    excerpt: "I;m really into league at the moment. Just started playing, so I haven't gotten into ranked."
+    excerpt: "I'm really into league at the moment. Just started playing, so I haven't gotten into ranked."
   - image_path: assets/img/jjk vol 30.jpg
     title: "Jujutsu Kaisen"
     excerpt: "My favorite anime is Jujutsu Kaisen. I'm so excited for season 4 next year. I read the manga and it;s sequel Jujutsu Kaisen: Modulo."
