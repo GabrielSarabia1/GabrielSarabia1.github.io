@@ -70,4 +70,3 @@ gallery:
 # CAD Model
 <iframe src="https://a360.co/3UBwwNW" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
