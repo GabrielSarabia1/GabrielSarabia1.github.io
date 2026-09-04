@@ -5,13 +5,13 @@ header:
   image: /assets/img/Engineering_Services_Banner.jpg
   teaser: /assets/img/Screenshot (12).png
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
+  - url: /assets/img/Box Iterations.jpg
     image_path: assets/img/Box Iterations.jpg
     alt: "placeholder image 1"
   - url: /assets/img/Electrical Setup.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
+    image_path: assets/img/Electrical Setup.jpg
     alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
+  - url: /assets/img/Finished.jpg
     image_path: assets/img/Finished.jpg
     alt: "placeholder image 3"
 ---
