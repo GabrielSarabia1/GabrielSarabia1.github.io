@@ -10,14 +10,12 @@ header:
       url: "/portfolio/"
 excerpt: "Gabriel Sarabia is an engineer with a passion for design, innovation, and hands-on problem solving. My work spans a variety of engineering projects, with an emphasis on turning ideas into functional, real-world solutions. Explore my projects to see what I've has worked on and learn more about my engineering journey.
 "
-feature_row:
 # Gabriel's Interests Outside of Work
-  - image_path: assets/img/One_Piece_Volume_61_Cover_(Japanese).jpg
-    alt: "CNC Mill"
+feature_row:
+  - image_path: assets/img/One_Piece,_Volume_61_Cover_(Japanese).jpg
     title: "One Piece"
     excerpt: "Currently on Wano Act I."
   - image_path: assets/img/league.jpg
-    alt: "placeholder image 2"
     title: "League of Legends"
     excerpt: "I'm really into league at the moment. Just started playing, so I haven't gotten into ranked."
   - image_path: assets/img/jjk vol 30.jpg
