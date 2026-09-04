@@ -11,17 +11,18 @@ header:
 excerpt: "Gabriel Sarabia is an engineer with a passion for design, innovation, and hands-on problem solving. My work spans a variety of engineering projects, with an emphasis on turning ideas into functional, real-world solutions. Explore my projects to see what I've has worked on and learn more about my engineering journey.
 "
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
+# Gabriel's Interests Outside of Work
+  - image_path: assets/img/One_Piece_Volume_61_Cover_(Japanese).jpg
     alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+    title: "One Piece"
+    excerpt: "Currently on Wano Act I."
+  - image_path: assets/img/league.jpg
     alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    title: "League of Legends"
+    excerpt: "I;m really into league at the moment. Just started playing, so I haven't gotten into ranked."
+  - image_path: assets/img/jjk vol 30.jpg
+    title: "Jujutsu Kaisen"
+    excerpt: "My favorite anime is Jujutsu Kaisen. I'm so excited for season 4 next year. I read the manga and it;s sequel Jujutsu Kaisen: Modulo."
 ---
 
 {% include feature_row %}
