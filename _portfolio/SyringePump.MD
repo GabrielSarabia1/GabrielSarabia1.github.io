@@ -5,14 +5,14 @@ header:
   image: /assets/img/Engineering_Services_Banner.jpg
   teaser: /assets/img/Screenshot (12).png
 gallery:
-  - url: /assets/img/Box Iterations.jpg
-    image_path: assets/img/Box Iterations.jpg
+  - url: /assets/img/Box Iterations.png
+    image_path: assets/img/Box Iterations.png
     alt: "placeholder image 1"
-  - url: /assets/img/Electrical Setup.jpg
-    image_path: assets/img/Electrical Setup.jpg
+  - url: /assets/img/Electrical Setup.png
+    image_path: assets/img/Electrical Setup.png
     alt: "placeholder image 2"
-  - url: /assets/img/Finished.jpg
-    image_path: assets/img/Finished.jpg
+  - url: /assets/img/Finished.png
+    image_path: assets/img/Finished.png
     alt: "placeholder image 3"
 ---
 
