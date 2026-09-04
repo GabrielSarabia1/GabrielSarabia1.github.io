@@ -10,7 +10,6 @@ header:
       url: "/portfolio/"
 excerpt: "Gabriel Sarabia is an engineer with a passion for design, innovation, and hands-on problem solving. My work spans a variety of engineering projects, with an emphasis on turning ideas into functional, real-world solutions. Explore my projects to see what I've has worked on and learn more about my engineering journey.
 "
-# Gabriel's Interests Outside of Work
 feature_row:
   - image_path: assets/img/One_Piece,_Volume_61_Cover_(Japanese).jpg
     title: "One Piece"
@@ -22,6 +21,6 @@ feature_row:
     title: "Jujutsu Kaisen"
     excerpt: "My favorite anime is Jujutsu Kaisen. I'm so excited for season 4 next year. I read the manga and it's sequel Jujutsu Kaisen: Modulo."
 ---
-
+# Gabriel's Interests Outside of Work
 {% include feature_row %}
 
