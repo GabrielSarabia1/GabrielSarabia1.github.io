@@ -5,6 +5,11 @@ header:
   image: /assets/img/Engineering_Services_Banner.jpg
   teaser: /assets/img/IMG_0059.jpeg
 
+gallery:
+  - url: /assets/img/IMG_0062.jpeg
+    image_path: assets/img/IMG_0062.jpeg
+    alt: "placeholder image 1"
+
 ---
 # Project Overview
 
@@ -26,12 +31,6 @@ For this project, we used SuperSlicer to prepare the models for printing and exp
 
 <iframe src="https://a360.co/4iUl9uK" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
-{% include gallery caption="Iterations and final multi-material pliers." %}
-
 # Pliers In-Action and Disassembled
 
 ![Pliers in action](/assets/img/Adobe Express - IMG_0060.gif)
-gallery:
-  - url: /assets/img/IMG_0062.jpeg
-    image_path: assets/img/IMG_0062.jpeg
-    alt: "placeholder image 1"
