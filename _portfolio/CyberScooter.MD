@@ -2,7 +2,7 @@
 title: "Multi-material Pliers"
 excerpt: "Designed and fabricated multi-material 3D-printed needle-nose pliers capable of gripping and picking up through-hole resistors, incorporating a flexible TPU spring for controlled opening and closing."
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
+  image: /assets/img/Engineering_Services_Banner.jpg
   teaser: /assets/img/IMG_0059.jpeg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
