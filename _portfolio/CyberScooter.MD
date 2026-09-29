@@ -4,16 +4,7 @@ excerpt: "Designed and fabricated multi-material 3D-printed needle-nose pliers c
 header:
   image: /assets/img/Engineering_Services_Banner.jpg
   teaser: /assets/img/IMG_0059.jpeg
-gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
+
 ---
 # Project Overview
 
@@ -40,3 +31,7 @@ For this project, we used SuperSlicer to prepare the models for printing and exp
 # Pliers In-Action and Disassembled
 
 ![Pliers in action](/assets/img/Adobe Express - IMG_0060.gif)
+gallery:
+  - url: /assets/img/IMG_0062.jpeg
+    image_path: assets/img/IMG_0062.jpeg
+    alt: "placeholder image 1"
