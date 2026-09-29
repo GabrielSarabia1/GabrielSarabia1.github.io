@@ -38,3 +38,4 @@ For this project, we used SuperSlicer to prepare the models for printing and exp
 # Pliers In-Action and Disassembled
 
 ![Pliers in action](/assets/img/Adobe Express - IMG_0060.gif)
+{% include gallery %}
