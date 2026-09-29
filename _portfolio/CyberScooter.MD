@@ -1,9 +1,9 @@
 ---
-title: "Cyber Scooter"
-excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
+title: "Multi-material Pliers"
+excerpt: "Designed and fabricated multi-material 3D-printed needle-nose pliers capable of gripping and picking up through-hole resistors, incorporating a flexible TPU spring for controlled opening and closing."
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  teaser: /assets/img/IMG_0059.jpeg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
