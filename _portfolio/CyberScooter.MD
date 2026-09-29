@@ -31,6 +31,24 @@ For this project, we used SuperSlicer to prepare the models for printing and exp
 * TPU spring returns the pliers to the open position.
 * Designed specifically for additive manufacturing and minimal post-processing.
 
+| Specification | Value |
+|---|---|
+| Jaw Length | 99 mm |
+| Jaw Capacity | 63.3 mm |
+| Handle Material | PLA |
+| Spring Material | 90A TPU |
+| Number of Components | 3 |
+| Intended Object | Through-hole resistors |
+
+| Slicer | SuperSlicer |
+| Nozzle Diameter | 0.6 mm |
+| Layer Height | Not recorded |
+| Top Layers | 0 |
+| Bottom Layers | 0 |
+| Infill Density | 4 variations tested |
+| Print Temperature | ~260 °C |
+| Bed Temperature | 60 °C |
+
 # CAD Model
 
 <iframe src="https://a360.co/4iUl9uK" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
@@ -39,3 +57,4 @@ For this project, we used SuperSlicer to prepare the models for printing and exp
 
 ![Pliers in action](/assets/img/Adobe Express - IMG_0060.gif)
 {% include gallery %}
+
