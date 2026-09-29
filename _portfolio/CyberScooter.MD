@@ -40,6 +40,8 @@ For this project, we used SuperSlicer to prepare the models for printing and exp
 | Number of Components | 3 |
 | Intended Object | Through-hole resistors |
 
+| Setting | Value |
+|---|---|
 | Slicer | SuperSlicer |
 | Nozzle Diameter | 0.6 mm |
 | Layer Height | Not recorded |
